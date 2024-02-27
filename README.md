@@ -1,1 +1,1 @@
-# typescript_assignment_19
+# typescript_assignment_19_Dinner_Guest
